@@ -1,0 +1,49 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "date": "2025-01-10",
+      "product": "course-html",
+      "name": "Иван Петров",
+      "email": "ivan.petrov@gmail.com",
+      "phone": "+7 (900) 123-45-67",
+      "status": "new"
+    },
+    {
+      "id": "2",
+      "date": "2025-01-12",
+      "product": "course-js",
+      "name": "Анна Смирнова",
+      "email": "anna.smirnova@mail.ru",
+      "phone": "+7 (911) 234-56-78",
+      "status": "inwork"
+    },
+    {
+      "id": "3",
+      "date": "2025-01-15",
+      "product": "course-vue",
+      "name": "Дмитрий Козлов",
+      "email": "d.kozlov@yandex.ru",
+      "phone": "+7 (922) 345-67-89",
+      "status": "complete"
+    },
+    {
+      "id": "4",
+      "date": "2025-01-18",
+      "product": "course-php",
+      "name": "Мария Новикова",
+      "email": "m.novikova@gmail.com",
+      "phone": "+7 (933) 456-78-90",
+      "status": "new"
+    },
+    {
+      "id": "5",
+      "date": "2025-01-20",
+      "product": "course-wordpress",
+      "name": "Алексей Морозов",
+      "email": "a.morozov@mail.ru",
+      "phone": "+7 (944) 567-89-01",
+      "status": "inwork"
+    }
+  ]
+}
