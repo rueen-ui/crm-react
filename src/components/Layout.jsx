@@ -30,7 +30,7 @@ const Layout = () => {
 
         <div className="left-panel__user clearfix">
           <div className="left-panel__user-photo">
-            <img src="/img/avatars/avatar-128.jpg" alt="avatar" />
+            <img src={`${import.meta.env.BASE_URL}img/avatars/avatar-128.jpg`} alt="avatar" />
           </div>
           <div className="left-panel__user-name">
             Пётр <br /> Васильевич
